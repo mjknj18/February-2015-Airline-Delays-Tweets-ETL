@@ -1,6 +1,6 @@
 # February-2015-Airline-Delays-Tweets-ETL
 
-
+The purpose of this project was to perform an Extract-Transform-Load (ETL) process on Feruary 2015 airline flight performance and customer tweets, based on datasets obtained from Kaggle. The SQLAlchemy and Pandas modules in Python were used to import, clean, and process the data, while the former was used to output the transformed data into an SQL database.
 
 ## Questions
 
