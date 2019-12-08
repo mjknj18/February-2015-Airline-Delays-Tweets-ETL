@@ -4,7 +4,9 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ## Questions
 
-
+1. What extraction methods need to be used to import and clean the data from each dataset?
+2. What transformation methods need to be used to process and manipulate the imported data?
+3. What type of database does the transformed data need to be loaded into and what relationships need to be established?
 
 ## Datasets
 
