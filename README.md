@@ -4,8 +4,8 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ## Questions
 
-1. Identify the appropriate methods and perform the data extraction process.
-2. Identify the appropriate methods and perform the data transformation process.
+1. Identify the appropriate method(s) and perform the data extraction process.
+2. Identify the appropriate method(s) and perform the data transformation process.
 3. Identify the appropriate storage medium and perform the data loading process.
 
 ## Datasets
