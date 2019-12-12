@@ -98,7 +98,8 @@ SCHEDULED_ARRIVAL VARCHAR(5)
 
 Airline_Positive
 -
-tweet_id INT PK
+tweet_id VARCHAR(100) PK
+airline_sentiment VARCHAR(10)
 airline_sentiment_confidence FLOAT
 airline VARCHAR(2) FK >- Airlines.IATA_CODE
 name VARCHAR(50)
@@ -109,7 +110,8 @@ tweet_time VARCHAR(5)
 
 Airline_Negative
 -
-tweet_id INT PK
+tweet_id VARCHAR(100) PK
+airline_sentiment VARCHAR(10)
 airline_sentiment_confidence FLOAT
 airline VARCHAR(2) FK >- Airlines.IATA_CODE
 name VARCHAR(50)
@@ -120,7 +122,8 @@ tweet_time VARCHAR(5)
 
 Airline_Neutral
 -
-tweet_id INT PK
+tweet_id VARCHAR(100) PK
+airline_sentiment VARCHAR(10)
 airline_sentiment_confidence FLOAT
 airline VARCHAR(2) FK >- Airlines.IATA_CODE
 name VARCHAR(50)
