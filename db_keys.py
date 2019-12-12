@@ -1,2 +1,2 @@
 # Postgres DB Key
-db_key = 'postgres:postgres'
+db_key = ''
