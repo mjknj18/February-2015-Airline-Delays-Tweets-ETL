@@ -17,9 +17,9 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ### Data Extraction
 
-1. Import flight performance data CSV files as Pandas data frames.
-2. Import customer tweet data SQLite database file as a Pandas data frame.
-3. Inspect data frames, and identify issues and inconsistencies.
+1. Import the flight performance data CSV files as Pandas data frames.
+2. Import the customer tweet data SQLite database file as a Pandas data frame.
+3. Inspect the data frames, and identify issues and inconsistencies.
 
 ### Data Transformation
 
