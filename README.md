@@ -23,7 +23,10 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ### Data Transformation
 
-
+1. Clean all data frames with flight performance data.
+2. Clean the data frame with customer tweet data.
+3. Perform transformations on all cleaned data frames.
+4. Split select transformed data frames into appropriate groups.
 
 ### Data Loading
 
@@ -31,4 +34,4 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ## Results/Conclusions
 
-1. https://github.com/mjknj18/February-2015-Airline-Delays-Tweets-ETL/blob/mk_branch/February_2015_Airline_Delays-Tweets_ETL_Main.ipynb
+1. https://github.com/mjknj18/February-2015-Airline-Delays-Tweets-ETL/blob/master/February_2015_Airline_Delays-Tweets_ETL_Main.ipynb
