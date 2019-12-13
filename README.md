@@ -30,7 +30,9 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 
 ### Data Loading
 
-
+1. Establish relationships between processed data frames and create a Entity Relationship Diagram (ERD).
+2. Create a PostgreSQL database, and generate tables with appropriate primary and foreign keys.
+3. Populate the tables with information from the appropriate data frames.
 
 ## Results/Conclusions
 
