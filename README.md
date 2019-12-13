@@ -26,12 +26,12 @@ The purpose of this project was to perform an Extract-Transform-Load (ETL) proce
 1. Clean all data frames with flight performance data.
 2. Clean the data frame with customer tweet data.
 3. Perform transformations on all cleaned data frames.
-4. Split select transformed data frames into appropriate groups.
+4. Split select processed data frames into appropriate groups.
 
 ### Data Loading
 
 1. Establish relationships between processed data frames and create a Entity Relationship Diagram (ERD).
-2. Create a PostgreSQL database, and generate tables with appropriate primary and foreign keys.
+2. Create a PostgreSQL database, and generate tables with the appropriate primary and foreign keys.
 3. Populate the tables with information from the appropriate data frames.
 
 ## Results/Conclusions
